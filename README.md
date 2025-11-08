@@ -156,7 +156,7 @@ Below are key pages of the platform:
 ### 🧭 1. Dashboard Overview
 Displays key metrics, total incidents, and safety insights.
 
-![Dashboard Screenshot](<img width="1916" height="974" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/ee06d611-7a40-408b-8948-911c1c78ad75" />
+![Dashboard Screenshot](<img width="1916" height="974" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/ee06d611-7a40-408b-8948-911c1c78ad75"/>
 )
 
 ---
@@ -164,7 +164,7 @@ Displays key metrics, total incidents, and safety insights.
 ### 🗺️ 2. Crime Hotspot Map
 Visualizes geographic clustering and identifies high-risk zones.
 
-![Crime Hotspot Map](<img width="1887" height="932" alt="Screenshot 2025-11-08 131015" src="https://github.com/user-attachments/assets/a0b936fd-8c9e-40d7-8b82-bb2c59a295c3" />
+![Crime Hotspot Map](<img width="1887" height="932" alt="Screenshot 2025-11-08 131015" src="https://github.com/user-attachments/assets/a0b936fd-8c9e-40d7-8b82-bb2c59a295c3"/>
 )
 
 ---
@@ -172,7 +172,7 @@ Visualizes geographic clustering and identifies high-risk zones.
 ### ⏰ 3. Temporal Pattern Analysis
 Shows time-based crime trends, including peak hours and seasonal variations.
 
-![Temporal Analysis](<img width="1919" height="1079" alt="Screenshot 2025-11-08 130930" src="https://github.com/user-attachments/assets/3384cb09-862f-47a0-beed-a1599cb83f3e" />
+![Temporal Analysis](<img width="1919" height="1079" alt="Screenshot 2025-11-08 130930" src="https://github.com/user-attachments/assets/3384cb09-862f-47a0-beed-a1599cb83f3e"/>
 )
 
 ---
